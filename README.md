@@ -35,17 +35,6 @@ Some of the Useful Insights from the Data and their Visualization can be found i
 * Automatic type is the most popular transmission, with over 79% of used cars. Only a small percentage of used cars are manual type transmission , around 6%.
 * Majority of the cars listed on the website were listed their cars as Good with over 69% , follwed by excellent and like new.
 
-## Exploratory Data Analysis
-Some of the Useful Insights from the Data and their Visualization can be found in the [Jupyter notebooks](https://github.com/junaidumbc/AbdulJunaid_data606/tree/main/src)
-* California State is Leading in the USED car market mainly because of Large Population, High cost of living, Diverse economy etc.
-* FORD Cars are more in number followed by Chevrolet, Toyota and Landrover, Morgn being least.
-* Cars made in 2017 and 2018 are in high numbers on the website for sale.
-* Gas is the Common fuel type used in Cars and electric being the Least and  Diesel type cars are most Expensive in price
-* Majority of the cars in the data set are of Four-wheel Drive (4WD) and they  are most Expensive in price.
-* SEDAN type Cars are more with 42.1% followed by SUV and bus being least and In terms of Cylinders types, 6 cylinders are more in numbers with almost 38.9% and 12 cylinders being the least.
-* Automatic type is the most popular transmission, with over 79% of used cars. Only a small percentage of used cars are manual type transmission , around 6%.
-* Majority of the cars listed on the website were listed their cars as Good with over 69% , follwed by excellent and like new.
-
 ## Modelling
 Before modelling, the dependent variable was selected as the PRICE column (Y), and the rest of the columns were selected as independent variables (X). The dataset was split into 70% training and 30% testing sets. Five supervised machine learning prediction models were used, namely:
 
